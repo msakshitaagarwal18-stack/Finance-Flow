@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude mcp add ruflo -- npx -y ruflo@latest mcp start)",
+      "mcp__ruflo__hooks_pretrain",
+      "Bash(chmod +x /Users/anshul/Documents/Arushi/Financial_Planner/financeflow/start.sh)"
+    ]
+  }
+}
